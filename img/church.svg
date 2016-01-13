@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="41px" viewBox="0 0 26 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>church</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="church" sketch:type="MSLayerGroup" stroke="#CCC5CA" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M17.337,16.3248 L17.337,23.6738 L24.316,28.6568 L24.395,28.6568 L24.395,39.5828 L16.352,39.5828 C16.376,37.3738 16.407,35.1658 16.407,32.9728 C16.407,30.8468 14.683,29.1238 12.557,29.1238 C10.431,29.1238 8.708,30.8468 8.708,32.9728 C8.708,35.1648 8.739,37.3738 8.763,39.5828 L0.72,39.5828 L0.72,28.6568 L0.798,28.6568 L7.778,23.6738 L7.778,16.3248" id="Stroke-1" sketch:type="MSShapeGroup"></path>
+            <path d="M7.3905,15.5855 L12.1435,3.4455 C11.6165,3.2555 11.2405,2.7525 11.2405,2.1605 C11.2405,1.4055 11.8515,0.7945 12.6065,0.7945 C13.3605,0.7945 13.9715,1.4055 13.9715,2.1605 C13.9715,2.7835 13.5545,3.3095 12.9835,3.4725 L17.7245,15.5855 L7.3905,15.5855 L7.3905,15.5855 Z" id="Stroke-3" sketch:type="MSShapeGroup"></path>
+            <path d="M14.4065,23.5042 L10.8035,23.5042 C10.8035,21.7562 10.7635,21.7982 10.7635,20.0602 C10.7635,19.0422 11.5875,18.2182 12.6045,18.2182 C13.6225,18.2182 14.4465,19.0422 14.4465,20.0602 C14.4465,21.7982 14.4065,21.7562 14.4065,23.5042 L14.4065,23.5042 Z" id="Stroke-5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
